@@ -1,0 +1,12 @@
+<html>
+<title>
+login page
+ </title>
+<h2>
+local login
+<h2>
+<body>
+this helps the user to know their personal stuff
+<labelname> Username:</labelname><input type="text"><br/>
+</body>
+</html>
