@@ -2,11 +2,14 @@
 <title>
 login page
  </title>
+<body>
 <h2>
 local login
 <h2>
-<body>
-this helps the user to know their personal stuff
+<form>
 <labelname> Username:</labelname><input type="text"><br/>
+<input type ="submit" value="login">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type ="reset" value ="reset">
+</form>
 </body>
 </html>
